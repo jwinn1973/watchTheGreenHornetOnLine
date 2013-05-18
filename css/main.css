@@ -11,10 +11,8 @@ body {
 }
 
 #wrapper{
+	margin: 0 auto;
 	margin-top: -5px;
-	margin-left: 18%;
-	margin-right: 18%;
-	margin-bottom: -10px;
 	width: 64%; /*900px*/
 	background-color: #5BC02B;
 	border-color: #208C26;
